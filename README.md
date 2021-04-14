@@ -1,0 +1,2 @@
+# SecondaryDevCobaltStrike
+二次开发过后的CobaltStrike,版本为4.1.在原来CobaltStrike的基础上修改多处特征,解决流量查杀问题.
